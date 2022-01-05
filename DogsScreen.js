@@ -49,7 +49,7 @@ const DogComponent = graphql(dogQuery)(props => {
     );
   }
 // console.log(key);
-return <Text>Loading</Text>;
+return <Text>Loading..</Text>;
 });
 
 export class DogsScreen extends Component {
